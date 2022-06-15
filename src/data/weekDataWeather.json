@@ -1,0 +1,188 @@
+{
+    "Headline": {
+        "EffectiveDate": "2022-06-15T13:00:00+07:00",
+        "EffectiveEpochDate": 1655272800,
+        "Severity": 2,
+        "Text": "Thunderstorms, some heavy, Wednesday afternoon through Wednesday evening",
+        "Category": "thunderstorm",
+        "EndDate": "2022-06-16T01:00:00+07:00",
+        "EndEpochDate": 1655316000,
+        "MobileLink": "http://www.accuweather.com/en/id/telanaipura/3431644/daily-weather-forecast/3431644?lang=en-us",
+        "Link": "http://www.accuweather.com/en/id/telanaipura/3431644/daily-weather-forecast/3431644?lang=en-us"
+    },
+    "DailyForecasts": [
+        {
+            "Date": "2022-06-13T07:00:00+07:00",
+            "EpochDate": 1655078400,
+            "Temperature": {
+                "Minimum": {
+                    "Value": 73,
+                    "Unit": "F",
+                    "UnitType": 18
+                },
+                "Maximum": {
+                    "Value": 90,
+                    "Unit": "F",
+                    "UnitType": 18
+                }
+            },
+            "Day": {
+                "Icon": 12,
+                "IconPhrase": "Showers",
+                "HasPrecipitation": true,
+                "PrecipitationType": "Rain",
+                "PrecipitationIntensity": "Light"
+            },
+            "Night": {
+                "Icon": 15,
+                "IconPhrase": "Thunderstorms",
+                "HasPrecipitation": true,
+                "PrecipitationType": "Rain",
+                "PrecipitationIntensity": "Moderate"
+            },
+            "Sources": [
+                "AccuWeather"
+            ],
+            "MobileLink": "http://www.accuweather.com/en/id/telanaipura/3431644/daily-weather-forecast/3431644?day=1&lang=en-us",
+            "Link": "http://www.accuweather.com/en/id/telanaipura/3431644/daily-weather-forecast/3431644?day=1&lang=en-us"
+        },
+        {
+            "Date": "2022-06-14T07:00:00+07:00",
+            "EpochDate": 1655164800,
+            "Temperature": {
+                "Minimum": {
+                    "Value": 74,
+                    "Unit": "F",
+                    "UnitType": 18
+                },
+                "Maximum": {
+                    "Value": 86,
+                    "Unit": "F",
+                    "UnitType": 18
+                }
+            },
+            "Day": {
+                "Icon": 12,
+                "IconPhrase": "Showers",
+                "HasPrecipitation": true,
+                "PrecipitationType": "Rain",
+                "PrecipitationIntensity": "Light"
+            },
+            "Night": {
+                "Icon": 15,
+                "IconPhrase": "Thunderstorms",
+                "HasPrecipitation": true,
+                "PrecipitationType": "Rain",
+                "PrecipitationIntensity": "Moderate"
+            },
+            "Sources": [
+                "AccuWeather"
+            ],
+            "MobileLink": "http://www.accuweather.com/en/id/telanaipura/3431644/daily-weather-forecast/3431644?day=2&lang=en-us",
+            "Link": "http://www.accuweather.com/en/id/telanaipura/3431644/daily-weather-forecast/3431644?day=2&lang=en-us"
+        },
+        {
+            "Date": "2022-06-15T07:00:00+07:00",
+            "EpochDate": 1655251200,
+            "Temperature": {
+                "Minimum": {
+                    "Value": 72,
+                    "Unit": "F",
+                    "UnitType": 18
+                },
+                "Maximum": {
+                    "Value": 85,
+                    "Unit": "F",
+                    "UnitType": 18
+                }
+            },
+            "Day": {
+                "Icon": 15,
+                "IconPhrase": "Thunderstorms",
+                "HasPrecipitation": true,
+                "PrecipitationType": "Rain",
+                "PrecipitationIntensity": "Heavy"
+            },
+            "Night": {
+                "Icon": 15,
+                "IconPhrase": "Thunderstorms",
+                "HasPrecipitation": true,
+                "PrecipitationType": "Rain",
+                "PrecipitationIntensity": "Moderate"
+            },
+            "Sources": [
+                "AccuWeather"
+            ],
+            "MobileLink": "http://www.accuweather.com/en/id/telanaipura/3431644/daily-weather-forecast/3431644?day=3&lang=en-us",
+            "Link": "http://www.accuweather.com/en/id/telanaipura/3431644/daily-weather-forecast/3431644?day=3&lang=en-us"
+        },
+        {
+            "Date": "2022-06-16T07:00:00+07:00",
+            "EpochDate": 1655337600,
+            "Temperature": {
+                "Minimum": {
+                    "Value": 74,
+                    "Unit": "F",
+                    "UnitType": 18
+                },
+                "Maximum": {
+                    "Value": 86,
+                    "Unit": "F",
+                    "UnitType": 18
+                }
+            },
+            "Day": {
+                "Icon": 6,
+                "IconPhrase": "Mostly cloudy",
+                "HasPrecipitation": true,
+                "PrecipitationType": "Rain",
+                "PrecipitationIntensity": "Light"
+            },
+            "Night": {
+                "Icon": 38,
+                "IconPhrase": "Mostly cloudy",
+                "HasPrecipitation": true,
+                "PrecipitationType": "Rain",
+                "PrecipitationIntensity": "Moderate"
+            },
+            "Sources": [
+                "AccuWeather"
+            ],
+            "MobileLink": "http://www.accuweather.com/en/id/telanaipura/3431644/daily-weather-forecast/3431644?day=4&lang=en-us",
+            "Link": "http://www.accuweather.com/en/id/telanaipura/3431644/daily-weather-forecast/3431644?day=4&lang=en-us"
+        },
+        {
+            "Date": "2022-06-17T07:00:00+07:00",
+            "EpochDate": 1655424000,
+            "Temperature": {
+                "Minimum": {
+                    "Value": 73,
+                    "Unit": "F",
+                    "UnitType": 18
+                },
+                "Maximum": {
+                    "Value": 89,
+                    "Unit": "F",
+                    "UnitType": 18
+                }
+            },
+            "Day": {
+                "Icon": 4,
+                "IconPhrase": "Intermittent clouds",
+                "HasPrecipitation": false
+            },
+            "Night": {
+                "Icon": 42,
+                "IconPhrase": "Mostly cloudy w/ t-storms",
+                "HasPrecipitation": true,
+                "PrecipitationType": "Rain",
+                "PrecipitationIntensity": "Moderate"
+            },
+            "Sources": [
+                "AccuWeather"
+            ],
+            "MobileLink": "http://www.accuweather.com/en/id/telanaipura/3431644/daily-weather-forecast/3431644?day=5&lang=en-us",
+            "Link": "http://www.accuweather.com/en/id/telanaipura/3431644/daily-weather-forecast/3431644?day=5&lang=en-us"
+        }
+    ]
+}

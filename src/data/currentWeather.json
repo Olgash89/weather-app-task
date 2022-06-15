@@ -1,0 +1,27 @@
+{
+    "data": [
+        {
+            "LocalObservationDateTime": "2022-06-13T23:40:00+08:00",
+            "EpochTime": 1655134800,
+            "WeatherText": "Cloudy",
+            "WeatherIcon": 7,
+            "HasPrecipitation": false,
+            "PrecipitationType": null,
+            "IsDayTime": false,
+            "Temperature": {
+                "Metric": {
+                    "Value": 26.1,
+                    "Unit": "C",
+                    "UnitType": 17
+                },
+                "Imperial": {
+                    "Value": 79,
+                    "Unit": "F",
+                    "UnitType": 18
+                }
+            },
+            "MobileLink": "http://www.accuweather.com/en/ph/telabastagan/758440/current-weather/758440?lang=en-us",
+            "Link": "http://www.accuweather.com/en/ph/telabastagan/758440/current-weather/758440?lang=en-us"
+        }
+    ]
+}

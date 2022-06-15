@@ -1,0 +1,25 @@
+.header{
+    border: black solid 1px;
+    position: relative;
+    text-align: left;
+}
+
+.buttons{
+    position: absolute;
+    right: 10px;
+    top: 15px;
+    
+
+}
+
+.link{
+    position: relative;
+    text-align: end;
+    right: 10px;
+    
+
+}
+.input{
+    margin-top: 20px;
+}
+

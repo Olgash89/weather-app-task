@@ -1,0 +1,44 @@
+.App {
+  text-align: center;
+} 
+
+.flex{
+  display: flex ;
+  justify-content: space-between;
+  
+}
+
+.flex2{
+  display: flex;
+  margin-top: 50px; 
+  justify-content:space-between;
+  align-items:flex-start;
+  flex-direction: row;
+ 
+  
+ 
+}
+.curr-weather{
+  text-align: start;
+  width: 100px;
+  border: solid black 1px;
+  
+
+}
+.main{
+  border: solid black 1px;
+}
+
+#pic3{
+  width: 250px;
+  height: 150px;
+}
+
+.input{
+  margin-bottom:15px;
+}
+
+.cur-border{
+  border: solid black 1px;
+  margin-top: 20px;
+}
